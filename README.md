@@ -1,3 +1,3 @@
-# JS-Text---Speech-Converter
+# JS-Text---Speech-Converter:
 
 Using JS to convert any written text to choosen speech.
